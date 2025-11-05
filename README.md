@@ -51,3 +51,4 @@ This repository contains the analytical assets for the Champ Engineering Data Tr
   - Team statistics
 - **kaggle** (download via Kaggle Hub)
   - Transfermarkt tables (Games, Players, Clubs, Appearances, etc.): [dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
+  - 5.7M rows Transfermarkt : [dataset](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets/?select=transfer_history)
